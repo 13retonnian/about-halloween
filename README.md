@@ -5,7 +5,7 @@ Links:
 Github Repo:
 https://github.com/Chriztoph3/cpnt260-a1
 Github Pages Site:
-https://chriztoph3.github.io/cpnt260-a1/
+https://13retonnian.github.io/cpnt260-a1/
 
 Client information:
 Awesome people
